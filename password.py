@@ -9,3 +9,5 @@ while i >= 0:
 		if i > 0:
 			print('密碼錯誤! 還有', i, '次機會')
 		i = i - 1
+		else:
+			break
